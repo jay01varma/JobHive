@@ -75,4 +75,4 @@ This project is licensed under the MIT License.
 ## Acknowledgements
 
 - This project was inspired by the need for a convenient way to search and collect job listings from multiple websites.
-- We are grateful to the open-source community for providing libraries and tools that made this project possible.
+- I am grateful to the open-source community for providing libraries and tools that made this project possible.
